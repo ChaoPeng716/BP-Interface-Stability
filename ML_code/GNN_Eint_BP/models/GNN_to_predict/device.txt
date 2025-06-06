@@ -1,0 +1,1 @@
+{'name': 'NVIDIA GeForce RTX 3080', 'CudaDNN_enabled': True, 'CUDNN_version': 8200, 'CUDA_version': '11.3', 'training_time': 2.7757229566574098}

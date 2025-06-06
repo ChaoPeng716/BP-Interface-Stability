@@ -1,0 +1,73 @@
+MIT License
+
+Copyright (c) 2025 Supporting Materials for "AI-Driven Discovery and Intelligent Molecular Engineering Design for Enhancing Interface Stability of Black Phosphorus"
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+This project incorporates code from the following open source projects:
+
+1. gnn_eads (GAME-Net) - Graph-based Adsorption on Metal Energy-neural Network
+   Original repository: https://gitlab.com/iciq-tcc/nlopez-group/gnn_eads
+   Copyright (c) 2022 iciq-tcc / nlopez-group
+   Licensed under the MIT License
+
+2. ChemProp - Message Passing Neural Networks for Molecule Property Prediction
+   Original repository: https://github.com/chemprop/chemprop
+   Copyright (c) 2024 The Chemprop Development Team (Regina Barzilay, 
+   Jackson Burns, Yunsie Chung, Anna Doner, Xiaorui Dong, David Graff, 
+   William Green, Kevin Greenman, Yanfei Guan, Esther Heid, Lior Hirschfeld, 
+   Tommi Jaakkola, Wengong Jin, Olivier Lafontant-Joseph, Shih-Cheng Li, 
+   Mengjie Liu, Joel Manu, Charles McGill, Angiras Menon, Nathan Morgan, 
+   Hao-Wei Pang, Kevin Spiekermann, Kyle Swanson, Allison Tam, 
+   Florence Vermeire, Haoyang Wu, and Kevin Yang, Jonathan Zheng)
+   Licensed under the MIT License
+
+Both incorporated projects are licensed under the MIT License, which is 
+compatible with this project's MIT License. The full text of the MIT License 
+for the incorporated projects is as follows:
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+THIRD-PARTY DEPENDENCIES
+
+This project may also depend on various Python packages and libraries, each
+with their own licensing terms. Users should consult the individual package
+documentation for specific license information. 
